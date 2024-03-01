@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/blaket/static/css/main.f855e6bc.css",
+    "main.js": "/blaket/static/js/main.32a80e77.js",
+    "static/js/453.ed3810f9.chunk.js": "/blaket/static/js/453.ed3810f9.chunk.js",
+    "static/media/blackcat_logo.svg": "/blaket/static/media/blackcat_logo.34081ee01026fc38c97dd168a62eda49.svg",
+    "index.html": "/blaket/index.html",
+    "main.f855e6bc.css.map": "/blaket/static/css/main.f855e6bc.css.map",
+    "main.32a80e77.js.map": "/blaket/static/js/main.32a80e77.js.map",
+    "453.ed3810f9.chunk.js.map": "/blaket/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.32a80e77.js"
+  ]
+}
